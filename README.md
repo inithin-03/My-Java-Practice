@@ -1,2 +1,2 @@
 # My-Java-Practice
-This repository includes problem solving and concepts in java.
+This repository includes problem solving with java and concepts of java.
