@@ -13,3 +13,9 @@ This repository includes problem solving with java and concepts of java.
 #### Input : n = 6
 #### Input values to array = {16,17,4,3,5,2}
 #### Output : 17 5 2
+
+## 3.Missing number in array.
+### Given an array of size n-1 such that it only contains distinct integers in the range of 1 to n. Find the missing element.
+#### Input : n = 10
+#### Input values to array A[] = {6,1,2,8,3,4,7,10,5}
+#### Output : 9
