@@ -26,3 +26,9 @@ This repository includes problem solving with java and concepts of java.
 ### Given an array arr[] and an integer k where k is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
 #### Input : n = 5 <br> A[] = {7,10,4,20,15} <br> k = 4
 #### Output : 15
+
+## 6.Add Binary Strings
+### Given two binary strings A and B consisting of only 0s and 1s. Find the resultant string after adding the two Binary Strings.
+Note: The input strings may contain leading zeros but the output string should not have any leading zeros.
+#### Input : A = "1101", B = "111"
+#### Output : 10100
