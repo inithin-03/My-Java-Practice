@@ -31,4 +31,4 @@ This repository includes problem solving with java and concepts of java.
 ### Given two binary strings A and B consisting of only 0s and 1s. Find the resultant string after adding the two Binary Strings.
 Note: The input strings may contain leading zeros but the output string should not have any leading zeros.
 #### Input : A = "1101", B = "111"
-#### Output : 10100
+#### Output : 10100.
